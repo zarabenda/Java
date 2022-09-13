@@ -1,8 +1,6 @@
-package KDV Hesaplama;
-
 import java.util.Scanner;
 
-public class KDV {
+public class main {
     public static void main(String[] args) {
         double tutar, kdvTutar, kdvliTutar, kdv;
         boolean kdvDurum;
@@ -22,4 +20,3 @@ public class KDV {
         System.out.println("KDV Tutarı : " + kdvTutar);
         System.out.println("KDV'li Tutarı: " + kdvliTutar);
     }
-}
