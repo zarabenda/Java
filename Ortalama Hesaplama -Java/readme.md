@@ -1,4 +1,4 @@
-# Grade Point Average Calculation Practice
+# Grade Point Average Calculation Practice🙌
 
 <b>TR:</b> Java ile <b>not ortalaması hesaplama</b> pratiği.<br>
 <b>EN:</b> Practicing <b>calculating grade point average</b> with Java.<br>
